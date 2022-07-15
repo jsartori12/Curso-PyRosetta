@@ -35,13 +35,13 @@ import csv
 pyrosetta.init()
 ######
 ###### Carregando PDB e inserindo em objeto POSE
-pose_norelax = pose_from_pdb("7t9k_alfa1_rbd.pdb.pdb")
-pose = pose_from_pdb("7t9k_alfa1_rbd_relaxed.pdb")
+pose_norelax = pose_from_pdb("Inputs/7t9k_alfa1_rbd.pdb.pdb")
+pose = pose_from_pdb("Inputs/7t9k_alfa1_rbd_relaxed.pdb")
 
 ###### Utilizando CLEAN pose para tratar possíveis erros na estrutura ao
 ###### carregar a pose.
 ###cleanATOM("7t9k_alfa1_rbd_relaxed")
-pose_clean = pose_from_pdb("7t9k_alfa1_rbd_relaxed.clean.pdb")
+pose_clean = pose_from_pdb("Inputs/7t9k_alfa1_rbd_relaxed.clean.pdb")
 
 
 ###### Atribuindo Sequência da pose a uma variável
