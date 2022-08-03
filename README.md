@@ -1,3 +1,35 @@
 # Curso-PyRosetta
 
-Scripts contendo informações de como usar PyRosetta
+## Getting started
+
+First of all, you must download PyRosetta. To download , you need to get a license.
+<br />
+Licenses and Downloads links:
+<br />
+[Licenses](https://www.rosettacommons.org/software/license-and-download)
+<br />
+[PyRosetta4 Download](https://graylab.jhu.edu/download/PyRosetta4/archive/release/)
+
+
+
+## Installing PyRosetta
+
+```
+tar -xvzf PyRosetta[release].tar.bz2
+cd PyRosetta*/setup
+python3 setup.py install
+
+```
+
+Additional help for downloading and installing both Rosetta and PyRosetta (source:Sari Sabban youtube channel )
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UEaFmUMEL9c/0.jpg)](https://www.youtube.com/watch?v=UEaFmUMEL9c)
+
+
+## Download the script in your directory
+
+```
+cd your_directory
+git clone https://github.com/jsartori12/Curso-PyRosetta.git
+
+```
