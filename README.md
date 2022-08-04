@@ -4,9 +4,9 @@
 
 First of all, you must download PyRosetta. To download , you need to get a license.
 <br />
-Licenses and Downloads links:
+License and Downloads links:
 <br />
-[Licenses](https://www.rosettacommons.org/software/license-and-download)
+[License](https://www.rosettacommons.org/software/license-and-download)
 <br />
 [PyRosetta4 Download](https://graylab.jhu.edu/download/PyRosetta4/archive/release/)
 
