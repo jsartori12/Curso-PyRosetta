@@ -18,7 +18,6 @@ Licenses and Downloads links:
 tar -xvzf PyRosetta[release].tar.bz2
 cd PyRosetta*/setup
 python3 setup.py install
-
 ```
 ## Installing aditional Python libs
 ```
