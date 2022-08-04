@@ -28,7 +28,6 @@ from rosetta.core.pack.task import TaskFactory
 from rosetta.core.select import residue_selector as selections
 from rosetta.core import select
 from pyrosetta.bindings.energies import *
-from functions import PDB_pose_dictionairy
 import pandas as pd
 import csv
 
