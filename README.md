@@ -30,7 +30,7 @@ Additional help for downloading and installing and PyRosetta (source:Sari Sabban
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UEaFmUMEL9c/0.jpg)](https://www.youtube.com/watch?v=UEaFmUMEL9c)
 
 
-## Download the script in your directory
+## Download the repo in your directory
 
 ```
 cd your_directory
