@@ -13,7 +13,7 @@ License and Downloads links:
 
 
 ## Installing PyRosetta
-
+### After downloading, unzip PyRosetta's and enter the setup directory to install it
 ```
 tar -xvzf PyRosetta[release].tar.bz2
 cd PyRosetta*/setup
