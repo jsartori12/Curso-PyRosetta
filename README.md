@@ -1,4 +1,4 @@
-# Curso-PyRosetta
+# PyRosetta Tutorial
 
 ## Getting started
 
