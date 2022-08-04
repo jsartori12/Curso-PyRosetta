@@ -35,5 +35,4 @@ Additional help for downloading and installing and PyRosetta (source:Sari Sabban
 ```
 cd your_directory
 git clone https://github.com/jsartori12/Curso-PyRosetta.git
-
 ```
