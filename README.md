@@ -36,3 +36,10 @@ Additional help for downloading and installing and PyRosetta (source:Sari Sabban
 cd your_directory
 git clone https://github.com/jsartori12/Curso-PyRosetta.git
 ```
+
+## Scripts content
+
+# Aula1.py
+- Introduction to Pose object
+- Working with pose and PDB indexes
+- Getting pose sequence and REU(Rosetta Energy Unit) values
