@@ -39,7 +39,12 @@ git clone https://github.com/jsartori12/Curso-PyRosetta.git
 
 ## Scripts content
 
-# Aula1.py
+## Aula1.py
 - Introduction to Pose object
 - Working with pose and PDB indexes
 - Getting pose sequence and REU(Rosetta Energy Unit) values
+
+## Aula2.py
+- Introduction to Movers in PyRosetta
+- Example of a few Move functions in PyRosetta
+- Introduction and usage example for PyRosetta's Repacker function
