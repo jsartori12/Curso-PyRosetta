@@ -64,8 +64,8 @@ print(smallmover)
 # Aplicando smallmover a uma pose
 smallmover.apply(clone_pose)
 # Comparando energias pose antes e depois de aplicar mover
-scorefxn.score(pose)
-scorefxn.score(clone_pose)
+print("Energy:{}\nEnergy after SmallMover: {}".format(scorefxn.score(pose), scorefxn.score(clone_pose)))
+
 # clone_pose.dump_pdb("./testemover.pdb")
 
 # ShearMover
@@ -84,8 +84,8 @@ shearmover.apply(clone_pose)
 
 # Comparando energia antes e depois de aplicar shearmover
 
-scorefxn.score(pose)
-scorefxn.score(clone_pose)
+print("Energy:{}\nEnergy after ShearMover: {}".format(scorefxn.score(pose), scorefxn.score(clone_pose)))
+
 # clone_pose.dump_pdb("./testeshearmover.pdb")
 
 # Repacker
